@@ -24,7 +24,7 @@ class Quiz : Fragment() {
 
     private var mCurrentPosition : Int = 10
     private var mQuestionList: ArrayList<Question>? = null
-    private var mSelectedOptionPosition: Int =0
+    private var mSelectedOptionPosition: Int = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
