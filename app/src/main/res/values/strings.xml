@@ -18,9 +18,13 @@
     <string name="strgroup">Groupe : </string>
     <string name="strGroupe">2 ING 1</string>
     <string name="terre">est la plus grande (12 756 km de diamètre), la plus massive et la plus dense des planètes du Système solaire. Elle est notamment le seul objet céleste connu pour abriter la vie.</string>
-    <string name="strTerre">Terre</string>
+    <string name="q1">Combien de planètes orbitent autour du Soleil ?</string>
+    <string name="q2">Quelle est la planète la plus proche du Soleil ?</string>
+    <string name="q3">Quelle est la plus grosse planète du Système Solaire ?</string>
+    <string name="q4">Quelle est la planète la plus lointaine du système solaire ?</string>
     <string name="strMercure">Mercure</string>
     <string name="strMerc">est la planète la plus proche du Soleil, ainsi que la plus petite (4 878 km de diamètre) et la moins massive avec un peu plus du vingtième de la masse terrestre</string>
     <string name="strMars">Mars</string>
     <string name="strMarss">est deux fois plus petite que la Terre et Vénus, et fait seulement environ le dixième de la masse terrestre. Sa période de révolution autour du Soleil est de 687 jours terrestres et sa journée dure 24 heures et 39 minutes.</string>
+    <string name="strsuiv">Suivant</string>
 </resources>
