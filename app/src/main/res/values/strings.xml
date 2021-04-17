@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MySpace</string>
+    <string name="isamm">Copyright © ISAMM 2021</string>
+    <string name="email">email</string>
+    <string name="strLogin">Login</string>
+    <string name="strEnreg">S\'enregistrer</string>
+    <string name="strMdp">Mot de passe oublié?</string>
+    <string name="strEmail">Email</string>
+    <string name="strMDP">Mot de passe</string>
+    <string name="strAnnuler">Annuler</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strTv">Bonjour!!</string>
+    <string name="strmail">Email : </string>
+    <string name="maiil">mariemhajjem10@gmail.com</string>
+    <string name="strNom">Nom et prénom :</string>
+    <string name="strnom">Mariem Hajjem</string>
+    <string name="strgroup">Groupe : </string>
+    <string name="strGroupe">2 ING 1</string>
+    <string name="terre">est la plus grande (12 756 km de diamètre), la plus massive et la plus dense des planètes du Système solaire. Elle est notamment le seul objet céleste connu pour abriter la vie.</string>
+    <string name="strTerre">Terre</string>
+    <string name="strMercure">Mercure</string>
+    <string name="strMerc">est la planète la plus proche du Soleil, ainsi que la plus petite (4 878 km de diamètre) et la moins massive avec un peu plus du vingtième de la masse terrestre</string>
+    <string name="strMars">Mars</string>
+    <string name="strMarss">est deux fois plus petite que la Terre et Vénus, et fait seulement environ le dixième de la masse terrestre. Sa période de révolution autour du Soleil est de 687 jours terrestres et sa journée dure 24 heures et 39 minutes.</string>
+</resources>
